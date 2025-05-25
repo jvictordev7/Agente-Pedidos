@@ -1,0 +1,6 @@
+crewai
+python-dotenv
+requests
+pyTelegramBotAPI
+sqlalchemy
+cloudinary
